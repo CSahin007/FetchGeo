@@ -27,7 +27,7 @@ In response to your project, I've identified a few inconsistencies with the API 
    To Run Utils src file == npm start -- "City, St" "Zipcode"
    example == npm start -- "Madison, WI" "12345" "Chicago, IL" "10001"
 
-To Run Test case file == npm RunTest
+To Run Test case file == npm run RunTest #
 
 4. **Reports**
    To see Test Case results see github actions.
